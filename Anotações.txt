@@ -1,0 +1,2 @@
+Api metados
+post, delete, get e post
