@@ -1,2 +1,3 @@
-Api metados
+Api metados para crud
 post, delete, get e post
+diferente dos iguais 
